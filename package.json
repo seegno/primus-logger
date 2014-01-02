@@ -1,0 +1,28 @@
+{
+  "name": "primus-logger",
+  "version": "0.0.1",
+  "description": "Add logging capabilities to the real-time Primus framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=testing ./node_modules/.bin/mocha $(find test -name '*.test.js')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seegno/primus-logger.git"
+  },
+  "author": {
+    "name": "Rui Marinho",
+    "email": "rui.marinho@seegno.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "winston": "0.7.x",
+    "underscore.string": "2.3.x",
+    "lodash": "2.4.x",
+    "object-path": "0.1.x"
+  },
+  "devDependencies": {
+    "chai": "1.7.x",
+    "mocha": "1.11.x"
+  }
+}
