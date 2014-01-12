@@ -88,6 +88,10 @@ The following logging levels are supported on a `Spark` instance:
 Currently, the only configurable option on the `primus-logger` plugin, besides dynamic
 properties (configured as `prefix`), is the `separator` string (defaults to `/`).
 
+## Compatibility
+
+This plugin has been tested against Primus 1.5.x only.
+
 ### License
 
 MIT
