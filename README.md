@@ -1,6 +1,6 @@
 # Primus Logger
 
-[![Build Status](https://travis-ci.org/primus/primus-logger.png)](https://travis-ci.org/seegno/primus-logger)
+[![Build Status](https://travis-ci.org/seegno/primus-logger.png)](https://travis-ci.org/seegno/primus-logger)
 [![NPM version](https://badge.fury.io/js/primus-logger.png)](http://badge.fury.io/js/primus)
 
 `primus-logger` is a tiny module for the [Primus](https://github.com/primus/primus) real-time
